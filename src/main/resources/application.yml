@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: server-3
+    hostname: service-center-3
   client:
     register-with-eureka: false
     fetch-registry: true
@@ -11,3 +11,6 @@ eureka:
 spring:
   application:
     name: eureka-server
+#server:
+#  port:
+# 在server实例运行时使用-Dserver.port=8080
