@@ -1,4 +1,4 @@
-package top.yisen614.eureka;
+package top.yisen.eureka;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
